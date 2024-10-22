@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtralan2\\tem3\\tem3\\models\\tsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|solutionrelative:tem3\\models\\tsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtralan2\\tem3\\tem3\\controllers\\sachapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|solutionrelative:tem3\\controllers\\sachapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtralan2\\tem3\\tem3\\views\\shared\\components\\tensach\\tensach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|solutionrelative:tem3\\views\\shared\\components\\tensach\\tensach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtralan2\\tem3\\tem3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|solutionrelative:tem3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtralan2\\tem3\\tem3\\models\\tnhaxb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|solutionrelative:tem3\\models\\tnhaxb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtralan2\\tem3\\tem3\\models\\tngonngu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|solutionrelative:tem3\\models\\tngonngu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtralan2\\tem3\\tem3\\models\\tloaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|solutionrelative:tem3\\models\\tloaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtralan2\\tem3\\tem3\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|solutionrelative:tem3\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtralan2\\tem3\\tem3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|solutionrelative:tem3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtralan2\\tem3\\tem3\\views\\shared\\_layoutkiemtra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|solutionrelative:tem3\\views\\shared\\_layoutkiemtra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtralan2\\tem3\\tem3\\models\\sachmodels\\sachtheoloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|solutionrelative:tem3\\models\\sachmodels\\sachtheoloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtralan2\\tem3\\tem3\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|solutionrelative:tem3\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|e:\\zalo\\ltweb\\kiemtralan2\\tem3\\tem3\\viewcomponents\\tensachviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288579DB-3F07-444C-9FE1-DB3C7ABBE83D}|tem3\\tem3.csproj|solutionrelative:tem3\\viewcomponents\\tensachviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Models\\QlthuVienContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tem3\\Models\\QlthuVienContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TNhaXb.cs",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Models\\TNhaXb.cs",
+              "RelativeDocumentMoniker": "tem3\\Models\\TNhaXb.cs",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Models\\TNhaXb.cs",
+              "RelativeToolTip": "tem3\\Models\\TNhaXb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:45:45.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TNgonNgu.cs",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Models\\TNgonNgu.cs",
+              "RelativeDocumentMoniker": "tem3\\Models\\TNgonNgu.cs",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Models\\TNgonNgu.cs",
+              "RelativeToolTip": "tem3\\Models\\TNgonNgu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:44:59.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TLoaiSach.cs",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Models\\TLoaiSach.cs",
+              "RelativeDocumentMoniker": "tem3\\Models\\TLoaiSach.cs",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Models\\TLoaiSach.cs",
+              "RelativeToolTip": "tem3\\Models\\TLoaiSach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:44:54.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "tem3\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "tem3\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAACAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T15:42:13.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SachAPIController.cs",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Controllers\\SachAPIController.cs",
+              "RelativeDocumentMoniker": "tem3\\Controllers\\SachAPIController.cs",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Controllers\\SachAPIController.cs",
+              "RelativeToolTip": "tem3\\Controllers\\SachAPIController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:11:24.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TSach.cs",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Models\\TSach.cs",
+              "RelativeDocumentMoniker": "tem3\\Models\\TSach.cs",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Models\\TSach.cs",
+              "RelativeToolTip": "tem3\\Models\\TSach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:10:05.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SachTheoLoai.cs",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Models\\SachModels\\SachTheoLoai.cs",
+              "RelativeDocumentMoniker": "tem3\\Models\\SachModels\\SachTheoLoai.cs",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Models\\SachModels\\SachTheoLoai.cs",
+              "RelativeToolTip": "tem3\\Models\\SachModels\\SachTheoLoai.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:09:57.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "tem3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "tem3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:45:24.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "tem3\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "tem3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:45:21.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Views\\Shared\\Header.cshtml",
+              "RelativeDocumentMoniker": "tem3\\Views\\Shared\\Header.cshtml",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Views\\Shared\\Header.cshtml",
+              "RelativeToolTip": "tem3\\Views\\Shared\\Header.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:36:20.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TenSach.cshtml",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Views\\Shared\\Components\\TenSach\\TenSach.cshtml",
+              "RelativeDocumentMoniker": "tem3\\Views\\Shared\\Components\\TenSach\\TenSach.cshtml",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Views\\Shared\\Components\\TenSach\\TenSach.cshtml",
+              "RelativeToolTip": "tem3\\Views\\Shared\\Components\\TenSach\\TenSach.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:38:05.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TenSachViewComponent.cs",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\ViewComponents\\TenSachViewComponent.cs",
+              "RelativeDocumentMoniker": "tem3\\ViewComponents\\TenSachViewComponent.cs",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\ViewComponents\\TenSachViewComponent.cs",
+              "RelativeToolTip": "tem3\\ViewComponents\\TenSachViewComponent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:36:53.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LayoutKiemTra.cshtml",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Views\\Shared\\_LayoutKiemTra.cshtml",
+              "RelativeDocumentMoniker": "tem3\\Views\\Shared\\_LayoutKiemTra.cshtml",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Views\\Shared\\_LayoutKiemTra.cshtml",
+              "RelativeToolTip": "tem3\\Views\\Shared\\_LayoutKiemTra.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:34:59.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QlthuVienContext.cs",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Models\\QlthuVienContext.cs",
+              "RelativeDocumentMoniker": "tem3\\Models\\QlthuVienContext.cs",
+              "ToolTip": "E:\\zalo\\ltweb\\Kiemtralan2\\tem3\\tem3\\Models\\QlthuVienContext.cs",
+              "RelativeToolTip": "tem3\\Models\\QlthuVienContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:34:58.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "tem3.Controllers.SachAPIController",
+    "Method": "GetSachTheoLoai",
+    "RelativePath": "api/SachAPI/{tenLoai}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tenLoai",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[tem3.Models.CauThuModels.SachTheoLoai, tem3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

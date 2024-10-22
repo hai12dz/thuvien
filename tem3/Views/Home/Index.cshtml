@@ -1,0 +1,57 @@
+﻿@model IEnumerable<tem3.Models.TSach>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutKiemTra.cshtml";
+
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table style="margin:auto" class="table">
+    <thead>
+        <tr>
+            <th>
+                Tên sách
+            </th>
+            <th>
+                Tác giả
+            </th>
+            <th>
+                Năm xuất bản
+            </th>
+          
+            <th>
+                Ảnh
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @item.TenSach
+            </td>
+            <td>
+              @item.TacGia
+            </td>
+            <td>
+              @item.NamXb
+            </td>
+       
+            <td>
+                    <img style="width:200px; height:auto;" src="@Url.Content("~/Images/" + item.FileAnh)" />
+
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.MaSach">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MaSach">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.MaSach">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

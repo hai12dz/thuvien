@@ -1,0 +1,128 @@
+﻿@model List<TLoaiSach>
+
+@foreach (var item in Model)
+{
+
+    var getUrl = "https://localhost:7115/api/sachapi/" + @item.TenLoai;
+    <li>
+
+
+
+
+       
+    <li> <a class="btn" onclick="showSachTheoTenLoai('@getUrl')">@item.TenLoai</a></li>
+
+
+
+
+	</li>
+}
+
+
+
+
+
+<script>
+    function showSachTheoTenLoai(getUrl) {
+        console.log('Fetching from URL:', getUrl); // Kiểm tra URL
+
+        document.querySelector('#renderbody').innerHTML = '';
+
+        $.ajax({
+            url: getUrl,
+            method: 'GET',
+            success: function (data) {
+                console.log('Data received:', data); // Kiểm tra dữ liệu
+                if (!data) {
+                    throw new Error('Data is null or undefined');
+                }
+
+                let str = '';
+
+                if (Array.isArray(data) && data.length > 0) {
+                    str += `
+
+
+                    <p>
+                <a href="@Url.Action("Create", "Home")">Create New</a>
+
+            </p>
+                     <table style="margin:auto" class="table">
+        <thead>
+            <tr>
+                <th>
+  Tên sách 
+                </th>
+                <th>
+   Tên tác giả
+                </th>
+                <th>
+    Năm xuất bản
+                </th>
+               
+                <th>
+    Ảnh
+                </th>
+             
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+
+
+                                `;
+
+                    data.forEach(item => {
+                        console.log('Processing item:', item); // Kiểm tra từng item
+                        str += `
+
+                              <tr>
+                <td>
+                ${item.tenSach}
+
+                </td>
+                <td>
+                    ${item.tacGia}
+
+                </td>
+                <td>
+                    ${item.namXb}
+
+                </td>
+              
+            
+                <td>
+                <img src="/images/${item.fileAnh}"  style="width: 200px; height: auto;">
+
+                </td>
+                
+                <td>
+                        <td>
+                                             <a class="btn btn-warning"  href="/Edit?id=${item.maSach}">Sửa</a> |
+                                 <a class="btn btn-primary" href="/Details?id=${item.maSach}">Chi tiết</a> |
+
+
+                                 <a class="btn btn-warning" href="/Delete?id=${item.maSach}">Xóa</a>
+                            </td>
+                </td>
+            </tr>
+                                  
+
+
+                                    `;
+                    });
+
+                    str += `</tbody>
+                                                </table>`;
+                } else {
+                    document.getElementById('renderbody').innerHTML = '<p>No data available.</p>';
+                }
+
+                document.getElementById('renderbody').innerHTML = str;
+            },
+            error: function (jqXHR, textStatus, errorThrown) {
+                alert(`Error: ${textStatus} - ${errorThrown}`);
+            }
+        });
+    }
+</script>
